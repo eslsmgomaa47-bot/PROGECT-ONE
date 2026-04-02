@@ -29,7 +29,7 @@ int random_number()
 int read_round()
 {
     int rawend;
-    cout<<"Enter the number of rounds you want to play: ";
+    cout<<"Enter the number of rounds you want to play:  ";
     cin>>rawend;
     return rawend;
 }
