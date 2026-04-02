@@ -1,4 +1,0 @@
-
-            correct_answer++;
-        }
-        else
